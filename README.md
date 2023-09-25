@@ -3,19 +3,19 @@ Chuẩn đoán bệnh ung thư vú cho bệnh nhân
 ## Dataset
 [Dataset can download from here](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
 ## Predict
-![alt text](https://github.com/hDn24/Breast_Cancer_Classification/blob/master/prediction.PNG)
+![alt text](https://github.com/hDn24/Breast_Cancer_Classification/blob/master/assets/prediction.png)
 ## Evaluate
 - Confuse matrix
 
-  ![alt text](https://github.com/hDn24/Breast_Cancer_Classification/blob/master/Confuse_matrix.PNG)
+  ![alt text](https://github.com/hDn24/Breast_Cancer_Classification/blob/master/assets/confuse_matrix.png)
   
 - ROC curve
 
-  ![alt text](https://github.com/hDn24/Breast_Cancer_Classification/blob/master/ROC.PNG)
+  ![alt text](https://github.com/hDn24/Breast_Cancer_Classification/blob/master/assets/roc.png)
   
  - Visalize accuracy and loss
  
-  ![alt text](https://github.com/hDn24/Breast_Cancer_Classification/blob/master/accuracy_loss.PNG)
+  ![alt text](https://github.com/hDn24/Breast_Cancer_Classification/blob/master/assets/accuracy_loss.png)
   
 - Classification report
 precision    recall  f1-score   support
